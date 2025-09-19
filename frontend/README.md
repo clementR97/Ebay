@@ -1,1 +1,4 @@
-# firstNodeJS
+# Install
+```bash
+npm install
+```
